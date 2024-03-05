@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruztem
 - 👀 I’m interested in open source
-- 🌱 I’m working in Kazdream Technologies
+- 🌱 I’m working in Samgau LLC
 - 📫 How to reach me ... @KELLA667 tg
 
 <!---
