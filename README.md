@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruztem
 - 👀 I’m interested in open source
-- 🌱 I’m working in Samgau LLC
+- 🌱 I’m working in BFE Holding
 - 📫 How to reach me ... @rkanatov tg
 
 <!---
